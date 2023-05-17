@@ -16,7 +16,20 @@ Here are some of the 🛠️ popular tools, frameworks, and technologies I am ex
 
 ## 💻 My GitHub Statistics
 
-<div align="center"> <a href="#"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchlover&langs_count=10&theme=dark&layout=compact" alt="Top Languages" width="48%"> </a> &nbsp; <a href="#"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=glitchlover&layout=compact&theme=dark" alt="Top Skills over the Last Week" width="48%"> </a> <br><br> <a href="#"> <img src="https://github-readme-stats.vercel.app/api?username=glitchlover&show_icons=true&theme=dark&count_private=true&hide=stars,issues,contribs" alt="GitHub Stats" width="48%"> </a> &nbsp; <a href="#"> <img src="https://github-profile-trophy.vercel.app/?username=glitchlover&theme=dark&no-bg=true&no-frame=true" alt="GitHub Profile Trophy" width="48%"> </a> </div>
+<div align="center">
+  <a href=#>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=glitchlover&theme=radical&hide_border=true&layout=compact" alt="GitHub Streak" width="80%">
+  </a>
+  <br><br>
+  <a href=#>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchlover&langs_count=6&layout=compact&theme=radical&hide_border=true&card_width=200&card_height=445" alt="Most Used Languages", width="32.5%">
+  </a>
+  &nbsp;&nbsp;
+  <a href=#>
+    <img src="https://github-readme-stats.vercel.app/api?username=glitchlover&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats">
+  </a>
+</div>
+
 
 <!--
 ## 🏆 My Achievements
