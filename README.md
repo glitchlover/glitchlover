@@ -1,3 +1,4 @@
+<a href="https://wakatime.com/@3615509d-fced-418e-b043-ae59a7984e17"><img src="https://wakatime.com/badge/user/3615509d-fced-418e-b043-ae59a7984e17.svg" alt="Total time coded since Jan 2 2023" /></a>
 # Hi, I'm Glitchlover! 👩🏻‍💻👋
 
 I am a passionate programmer who loves to explore different programming languages, including 🐍 Python, 🔥 JavaScript, 🚀 TypeScript, 🎯 Dart, 🤖 C, and 🤖 C++. I enjoy participating in coding competitions with my C++ skills and building stunning websites 💻. Currently, I am focused on developing mobile apps with Flutter 📱 and building Obsidian Plugins as a hobby 🧩.
@@ -15,7 +16,7 @@ Here are some of the 🛠️ popular tools, frameworks, and technologies I am ex
 
 ## 💻 My GitHub Statistics
 
-![Glitchlover's GitHub stats](https://github-readme-stats.vercel.app/api?username=glitchlover&show_icons=true&theme=dark)
+<div align="center"> <a href="#"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchlover&langs_count=10&theme=dark&layout=compact" alt="Top Languages" width="48%"> </a> &nbsp; <a href="#"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=glitchlover&layout=compact&theme=dark" alt="Top Skills over the Last Week" width="48%"> </a> <br><br> <a href="#"> <img src="https://github-readme-stats.vercel.app/api?username=glitchlover&show_icons=true&theme=dark&count_private=true&hide=stars,issues,contribs" alt="GitHub Stats" width="48%"> </a> &nbsp; <a href="#"> <img src="https://github-profile-trophy.vercel.app/?username=glitchlover&theme=dark&no-bg=true&no-frame=true" alt="GitHub Profile Trophy" width="48%"> </a> </div>
 
 <!--
 ## 🏆 My Achievements
