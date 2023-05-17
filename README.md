@@ -17,7 +17,7 @@ Here are some of the 🛠️ popular tools, frameworks, and technologies I am ex
 
 ![Glitchlover's GitHub stats](https://github-readme-stats.vercel.app/api?username=glitchlover&show_icons=true&theme=dark)
 
-%%
+<!--
 ## 🏆 My Achievements
 
 Here are some of the badges that showcase my achievements 🏅:
@@ -36,4 +36,4 @@ You can get in touch with me through the following channels 📲:
 - Twitter: [@glitchlover_](https://twitter.com/glitchlover_) 🐦
 
 Feel free to reach out to me if you have any questions or would like to collaborate on a project 🤝!
-%%
+-->
