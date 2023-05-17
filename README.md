@@ -16,13 +16,13 @@ Here are some of the 🛠️ popular tools, frameworks, and technologies I am ex
 
 ## 💻 My GitHub Statistics
 
-<div align="center">
+<div align="center", style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center">
   <a href=#>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=glitchlover&theme=radical&hide_border=true&layout=compact" alt="GitHub Streak" width="80%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=glitchlover&theme=radical&hide_border=true&layout=compact" alt="GitHub Streak" width="80%", style="display: flex">
   </a>
   <br><br>
   <a href=#>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchlover&langs_count=6&layout=compact&theme=radical&hide_border=true&card_width=200&card_height=445" alt="Most Used Languages", width="32.5%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchlover&langs_count=6&layout=compact&theme=radical&hide_border=true&card_width=200&card_height=445" alt="Most Used Languages", width="32.5%", style="display: flex">
   </a>
   &nbsp;&nbsp;
   <a href=#>
