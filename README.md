@@ -10,7 +10,7 @@ Here are some of the 🛠️ popular tools, frameworks, and technologies I am ex
 - **Mobile App Development**: Flutter 📱
 - **Database**: SQLite, MySQL, MongoDB 🗂️
 - **Web Development**: React ⚛️, Vue.js 🍃, Angular 🅰️, Bootstrap 🥾, Material UI 💠, Django 🦸
-- **Operating Systems**: Linux 🐧, Windows 🖥️
+- **Operating Systems**: Apple 🍎, Windows 🖥️
 - **IDEs**: Visual Studio Code 💻, Android Studio 📱, JetBrains IDEs 🚀
 
 ## 💻 My GitHub Statistics
