@@ -1,6 +1,10 @@
-<a href="https://wakatime.com/@3615509d-fced-418e-b043-ae59a7984e17"><img src="https://wakatime.com/badge/user/3615509d-fced-418e-b043-ae59a7984e17.svg" alt="Total time coded since Jan 2 2023" /></a>
-# Hi, I'm Glitchlover! 👩🏻‍💻👋
+<a href="https://wakatime.com/@3615509d-fced-418e-b043-ae59a7984e17"><img src="https://wakatime.com/badge/user/3615509d-fced-418e-b043-ae59a7984e17.svg" alt="Total time coded since Jan 2 2023" /> </a>
 
+# Hi, I'm Glitchlover! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'> 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=glitchlover&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+
+## About Me 👩🏻
+<img width="200vw" align="right" alt="Github" src="https://www.bing.com/th/id/OGC.a9d016d538c2379ee1d656eebb3bdc86?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1857592%2fscreenshots%2f3848396%2fcharacter-typing.gif&ehk=CtxqPivtSWbVqkiSSht%2butKZqeTbG0HI7FQzSb3yhmE%3d"/>
 I am a passionate programmer who loves to explore different programming languages, including 🐍 Python, 🔥 JavaScript, 🚀 TypeScript, 🎯 Dart, 🤖 C, and 🤖 C++. I enjoy participating in coding competitions with my C++ skills and building stunning websites 💻. Currently, I am focused on developing mobile apps with Flutter 📱 and building Obsidian Plugins as a hobby 🧩.
 
 ## 🚀 Skills and Tools
